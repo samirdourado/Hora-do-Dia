@@ -1,11 +1,9 @@
 body{
-    background-color: rgb(70, 142, 236);
+    background-color: rgb(245, 245, 245);
     font: normal 1rem Arial;
     display: flex;
     justify-content: center;
-    align-items: center;
-    
-    
+    align-items: center;    
 }
 
 header > h1 {
@@ -45,4 +43,22 @@ footer {
     color: #ffffff;
     text-align: center;
     font-style: italic;
+}
+
+/* backgrounds */
+
+.madrugada {
+    background-color: #000000;
+}
+
+.manha {
+    background-color: #f9c99e;
+}
+
+.tarde {
+    background-color: #f67e15;
+}
+
+.noite {
+    background-color: #414141;
 }
