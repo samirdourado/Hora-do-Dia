@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(70, 142, 236);
+    font: normal 1rem Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+header > h1 {
+    color: #ffffff;
+    text-align: center;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+section {
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 80%;
+    box-shadow: 3px 3px 3px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.section > p {
+    font-weight: 600;
+}
+
+figure {
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+}
