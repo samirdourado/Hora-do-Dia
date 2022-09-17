@@ -26,8 +26,8 @@ section {
     margin: 0 auto;
 }
 
-.section > p {
-    font-weight: 600;
+section > p {
+    font-weight: bold;
 }
 
 figure {
